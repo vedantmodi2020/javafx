@@ -1,0 +1,114 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "vmArgs": "--module-path /Users/user/Downloads/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml", 
+            "mainClass": "HelloWorld",
+            "projectName": "javafx_78fc74d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch button",
+            "request": "launch",
+            "mainClass": "button",
+            "projectName": "javafx_78fc74d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex1",
+            "request": "launch",
+            "mainClass": "ex1",
+            "projectName": "javafx_78fc74d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch grid_pane",
+            "request": "launch",
+            "mainClass": "grid_pane",
+            "projectName": "javafx_78fc74d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch javadbc1",
+            "request": "launch",
+            "mainClass": "javadbc1",
+            "projectName": "javafx_78fc74d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch javafx1",
+            "request": "launch",
+            "mainClass": "javafx1",
+            "projectName": "javafx_78fc74d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch javafx_control_scene",
+            "request": "launch",
+            "mainClass": "javafx_control_scene",
+            "projectName": "javafx_78fc74d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch javafx_jdbc",
+            "request": "launch",
+            "mainClass": "javafx_jdbc",
+            "projectName": "javafx_78fc74d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch javafxdatepicker",
+            "request": "launch",
+            "mainClass": "javafxdatepicker",
+            "projectName": "javafx_78fc74d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch javafxmenubar",
+            "request": "launch",
+            "mainClass": "javafxmenubar",
+            "projectName": "javafx_78fc74d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch javafxtextinput",
+            "request": "launch",
+            "mainClass": "javafxtextinput",
+            "projectName": "javafx_78fc74d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch radioButooninput",
+            "request": "launch",
+            "mainClass": "radioButooninput",
+            "projectName": "javafx_78fc74d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ticket",
+            "request": "launch",
+            "vmArgs": "--module-path /Users/user/Downloads/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml", 
+            "mainClass": "ticket",
+            "projectName": "javafx_78fc74d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ticket2",
+            "request": "launch",
+            "mainClass": "ticket2",
+            "projectName": "javafx_78fc74d5"
+        }
+    ]
+}
